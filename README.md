@@ -18,4 +18,4 @@ Olá!!! Eu sou o Adiel Nascimento 👋
    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologias, em constante evolução, bom relacionamento em trabalho com equipe, paciente para ensinar e dedicado 100% no que faz!!!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nynoaraujo&layout=compact)](https://github.com/nynoaraujo/github-readme-stats)
