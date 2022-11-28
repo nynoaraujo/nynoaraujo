@@ -8,11 +8,16 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://outlook.live.com/mail/0/)
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adiel-nascimento-050b27229)
 
-![nynoaraujo GitHub stats](https://github-readme-stats.vercel.app/api?username=nynoaraujo&show_icons=true&theme=radical)
+<div align="center">
 
-## Escola e Curso Profissionalizantes:
+  <a href="https://github.com/nynoaraujo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nynoaraujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nynoaraujo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+## 📚Escola e Curso Profissionalizantes:
 [![Email](https://img.shields.io/badge/Imagine--School-F47521?style=for-the-badge&logo=ImagineSchool&logoColor=white)](https://imagineschool.com.br/)
-## Tecnologias que eu uso no meu dia 🛠️
+## 🛠️Tecnologias que eu uso no meu dia
 
 <div style="display: Inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whitehttps://pt.wikipedia.org/wiki/HTML5"/>
@@ -21,20 +26,12 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nynoaraujo&exclude_repo=github-readme-stats,nynoaraujo.github.io)](https://github.com/nynoaraujo/github-readme-stats)
-
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nynoaraujo&bg_color=0d1117&color=33CEFF&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nynoaraujo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nynoaraujo}/count.svg" /></p> 
 <br>
 </div>
- 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 <p align="center">
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CEFF&height=120&section=header"/>
