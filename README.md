@@ -9,7 +9,7 @@ Olá!!! Eu sou o Adiel Nascimento 👋
 ![nynoaraujo GitHub stats](https://github-readme-stats.vercel.app/api?username=nynoaraujo&show_icons=true&theme=radical)
 
 ## Escola e Curso Profissionalizantes:
-![Email](https://img.shields.io/badge/Imagine--School-F47521?style=for-the-badge&logo=ImagineSchool&logoColor=white)
+[![Email](https://img.shields.io/badge/Imagine--School-F47521?style=for-the-badge&logo=ImagineSchool&logoColor=white)](https://imagineschool.com.br/)
 ## Tecnologias que eu uso no meu dia 🛠️
 
 <div style="display: Inline_block"><br/>
