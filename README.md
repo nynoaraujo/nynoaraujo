@@ -18,4 +18,4 @@ Olá!!! Eu sou o Adiel Nascimento 👋
    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nynoaraujo&layout=compact)](https://github.com/nynoaraujo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nynoaraujo&exclude_repo=github-readme-stats,nynoaraujo.github.io)](https://github.com/nynoaraujo/github-readme-stats)                                           
