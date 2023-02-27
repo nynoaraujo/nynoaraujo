@@ -16,7 +16,7 @@
 
 ## 📚Escola e Curso Profissionalizantes:
 [![Email](https://img.shields.io/badge/Imagine--School-F47521?style=for-the-badge&logo=ImagineSchool&logoColor=white)](https://imagineschool.com.br/)
-[![Email](https://img.shields.io/badge/ufs--School-gclid=EAIaIQobChMI0c2B-oC2_QIVauhcCh0SJAe6EAAYASAAEgK-OvD_BwE)](https://www.usf.edu.br/)
+[![Email](https://img.shields.io/badge/ufs--School-F47521?style=for-the-badge&logo=https://www.usf.edu.br/?gclid=EAIaIQobChMI0c2B-oC2_QIVauhcCh0SJAe6EAAYASAAEgK-OvD_BwE
 ## 🛠️Tecnologias que eu uso no meu dia
 
 <div style="display: Inline_block"><br/>
